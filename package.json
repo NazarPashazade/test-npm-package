@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/NazarPashazade/test-npm-package.git"
   },
-  "author": "",
+  "author": "Nazar Pasha",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NazarPashazade/test-npm-package/issues"
