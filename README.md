@@ -10,8 +10,8 @@ This is a function that returns a message
 
 # Usage example
 
-const sayHello = require("./src");
-
-const message = sayHello("Nazar") // Hi Nazar...
-
+const {sayHello} = require('say-hello-to-user');
  
+const message = sayHello("Nazar")
+
+console.log(message);
