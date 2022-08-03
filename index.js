@@ -1,5 +1,3 @@
-const sayHello = (name) => {
-    return `Hi ${name}...`
+exports.sayHello = function(name) {
+    return `Hi ${name}...`;
 }
-
-module.exports = sayHello

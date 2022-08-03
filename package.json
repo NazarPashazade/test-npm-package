@@ -1,6 +1,6 @@
 {
   "name": "say-hello-to-user",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is the a function that says Hi to user",
   "main": "index.js",
   "scripts": {
